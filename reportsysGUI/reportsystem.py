@@ -885,7 +885,7 @@ class Ui_MainWindow(object):
         self.list.setText(_translate("MainWindow", "LIST"))
         self.search.setText(_translate("MainWindow", "SEARCH"))
         self.report.setText(_translate("MainWindow", "REPORT"))
-        self.label_2.setText(_translate("MainWindow", "by BadRabbit8166"))
+        self.label_2.setText(_translate("MainWindow", "by VoidLight"))
         self.menuOptions.setTitle(_translate("MainWindow", "Options"))
         self.actionSave.setText(_translate("MainWindow", "Save"))
         self.actionSave.setWhatsThis(_translate("MainWindow", "Save current status"))
